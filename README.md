@@ -1,0 +1,1 @@
+# Lidl Data Scientist interview case study
