@@ -13,5 +13,6 @@ dependencies = [
     "scikit-learn>=1.7.1",
     "scipy>=1.15.3",
     "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
     "umap-learn>=0.5.9.post2",
 ]
